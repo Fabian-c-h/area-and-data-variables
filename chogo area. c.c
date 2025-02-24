@@ -1,6 +1,6 @@
 /*
-author:Gideon mugambi
-reg no:d33-8563-2021
+author:Fabian Chogo
+reg no:D33-0262-2022
 Program:to find area of rectangle 
 date:20/2/2025
 */
